@@ -2,9 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-$primary: #d9b3d7;
-$secondary: #271639;
-$light: lavender;
+$primary: #051e3f;
+$secondary: #fec159;
+$light: #122948;
 
 header {
   background: $primary;
@@ -14,6 +14,7 @@ header {
 
 html, body {
   background: $light;
+  color: $secondary;
   font-family: 'Gentium Basic', serif;
   font-family: 'Cabin Sketch', cursive;
 }
@@ -22,6 +23,19 @@ footer {
   text-align: center;
   color: $secondary;
   padding-top: 80vh;
+}
+
+a:link { 
+  color: #333333;
+}
+a:visited { 
+  color: #FFFFFF;
+}
+a:hover { 
+  color: #CCCCCC;
+}
+a:active { 
+  color: #333333;
 }
 
 nav a {

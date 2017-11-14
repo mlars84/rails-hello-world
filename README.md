@@ -4,7 +4,7 @@
 
 ## Built With
 
-- Ruby, Rails, Sass
+- Ruby, Rails, Sass, PostgreSQL
 
 ## Getting Started
 

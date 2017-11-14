@@ -12,8 +12,10 @@ header {
   text-align: center;
 }
 
-body {
+html, body {
   background: $light;
+  font-family: 'Gentium Basic', serif;
+  font-family: 'Cabin Sketch', cursive;
 }
 
 footer {

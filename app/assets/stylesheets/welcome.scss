@@ -16,6 +16,11 @@ header {
   margin-bottom: 2vh;
 }
 
+hr {
+  width: 40vw;
+  float: left;
+}
+
 html, body {
   background: $light;
   color: $secondary;

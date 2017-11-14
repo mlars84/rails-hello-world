@@ -21,17 +21,25 @@ hr {
   float: left;
 }
 
+main {
+  text-align: center;
+  padding: 2vh 4vw 0 4vw;
+}
+
 html, body {
   background: $light;
   color: $secondary;
-  font-family: 'Gentium Basic', serif;
-  font-family: 'Cabin Sketch', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 
 footer {
   text-align: center;
   color: $secondary;
   padding-top: 25vh;
+}
+
+li {
+  list-style: none;
 }
 
 a:link { 
